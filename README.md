@@ -1,15 +1,14 @@
-# calendar-be
-A backend for calendar App
+# Calendar-BE
 
-Express
+## A [backend](https://calendar-be-alvaro-veloz.up.railway.app) for ==Calendar App==
 
-express-validator
 
-bcryptjs
+##### MongoDB - Railway - NodeJS
 
-jsonwebtoken
-
-moment
-
-MongoDB
-
+| Modules              |
+| -------------------- |
+| Express           |
+| express-validator |
+| bcryptjs |
+| jsonwebtoken |
+| moment |
