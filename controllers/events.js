@@ -111,13 +111,7 @@ const removeEvent = async (req, res = response, next) => {
       msg: 'An error ocurred while trying to remove an event.',
     });
   }
-
-
-  return res.status(200).json({
-    ok: true,
-    msg: 'deleteEvent',
-    eventId,
-  });
+  
 };
 
 module.exports = {
